@@ -175,7 +175,6 @@
 				677D1E1B1C3D36E800AF69F5 /* Sources */,
 				677D1E1C1C3D36E800AF69F5 /* Frameworks */,
 				677D1E1D1C3D36E800AF69F5 /* Resources */,
-				D7C872F8B51B831947CB775C /* Embed Pods Frameworks */,
 				02ACB383A3536684814E0FBA /* Copy Pods Resources */,
 			);
 			buildRules = (
@@ -306,21 +305,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-YUKitExample/Pods-YUKitExample-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		D7C872F8B51B831947CB775C /* Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-YUKitExample/Pods-YUKitExample-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		E0589DC1D0F62B2ADA1A0143 /* Check Pods Manifest.lock */ = {
